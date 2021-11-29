@@ -1,0 +1,360 @@
+﻿Client Number,Client Type,Client Sex,Client Date of Birth,Client Marital Status,Client Name,CLTV Band,client_name,Propensity,City,Lat,Lng,Population,Tier,Population Class,Customer Age,Profession Category
+50000847,P,M,19800101,M,BOSCO DON,high value,Drake willson,0.17229152600000003,Bhāgalpur,25.244462,86.97183199999999,361548.0,Tier-1,Urban,46,Blue Collar Job
+50001036,P,M,19860101,M,Way Tily,low value,NINJA RUL,0.063219669,Nāra,21.203096,79.08928399999999,2454000.0,Tier-1,Metropolitan,58,Blue Collar Job
+50030482,P,M,19800101,M,Ansh TEN,high value,Pal Inder,0.06724574900000001,Nāra,21.203096,79.08928399999999,2454000.0,Tier-1,Metropolitan,57,Blue Collar Job
+50052159,P,M,19850101,S,RTA Ashish,high value,Anthony Lim,0.09146692099999999,Nāra,21.203096,79.08928399999999,2454000.0,Tier-1,Metropolitan,55,Other
+50001209,P,M,19850715,S,John Anderson,high value,Andy F Bambang,0.06664344,Gaya,24.796858,85.003852,423692.0,Tier-1,Urban,64,White Collar Job
+50040912,P,M,19800101,M,Ansh TEN,low value,BOSCO DON,0.05508737599999999,Gaya,24.796858,85.003852,423692.0,Tier-1,Urban,31,Blue Collar Job
+50001357,P,M,19880520,S,Pit Test,medium value,MOHIT SHARMA,0.07035418,Karnāl,29.691971000000002,76.984483,225049.0,Tier-1,Urban,42,White Collar Job
+50001467,P,F,19900101,M,Manoj Sheetal,medium value,Ansh TEN,0.16836685199999998,Silvassa,20.273854999999998,72.996728,27359.0,Tier-3,Semi-Urban,67,White Collar Job
+50034390,P,M,19800101,M,Ansh TEN,medium value,mishra aditya,0.103698722,Silvassa,20.273854999999998,72.996728,27359.0,Tier-3,Semi-Urban,48,Other
+50034441,P,M,19850101,S,john smith,low value,FACTS3 FACTA3,0.053087147,Silvassa,20.273854999999998,72.996728,27359.0,Tier-3,Semi-Urban,52,Other
+50001495,P,M,19810529,Z,Parth Gevik,high value,Raj Mathur,0.123200951,Jorhāt,26.757509000000002,94.203055,69033.0,Tier-2,Semi-Urban,62,Blue Collar Job
+50005555,P,M,20040101,C,Beta Singh,low value,Raj Sharma,0.13021379800000002,Jorhāt,26.757509000000002,94.203055,69033.0,Tier-2,Semi-Urban,34,White Collar Job
+50010115,P,M,19870115,M,Frank Martin,low value,John RTA,0.096280663,Jorhāt,26.757509000000002,94.203055,69033.0,Tier-2,Semi-Urban,49,Other
+50001652,P,M,19810529,M,Personal Client Personal Client,medium value,John Smith,0.046857295,Tiruchchirāppalli,10.815499,78.696513,951000.0,Tier-1,Urban,23,White Collar Job
+50001745,P,M,19830404,M,Ishmeet Singh,high value,Drake willson,0.31954033,Pune,18.513271,73.849852,4672000.0,Tier-1,Metropolitan,26,White Collar Job
+50001817,P,M,19800405,S,Matt Dimitrov,low value,Steve Roger,0.096104068,Nandyāl,15.477994,78.48360500000001,188654.0,Tier-1,Urban,37,Blue Collar Job
+50002103,P,M,19970501,M,Nishant Saxena,low value,John RTA,0.031358487000000004,Nānded,19.160227,77.314971,623708.0,Tier-1,Urban,40,White Collar Job
+50012547,P,M,19800101,M,Drake willson,low value,Ansh TEN,0.141666588,Nānded,19.160227,77.314971,623708.0,Tier-1,Urban,48,Other
+50041099,P,M,19810101, ,Govardhan Kumar,low value,Ansh TEN,0.139640504,Nānded,19.160227,77.314971,623708.0,Tier-1,Urban,50,Other
+50060644,P,M,19800101,M,NINJA RUL,high value,Drake Doctor,0.057661857000000004,Nānded,19.160227,77.314971,623708.0,Tier-1,Urban,63,White Collar Job
+50002154,P,M,19800101,S,IWA Testing,high value,Ram TEN,0.10299322,Tiruvannāmalai,12.230203999999999,79.07295400000001,138243.0,Tier-1,Urban,44,Blue Collar Job
+50016566,P,M,19800101,S,sdfas sfse,low value,Ashish Sharma,0.053660769000000004,Tiruvannāmalai,12.230203999999999,79.07295400000001,138243.0,Tier-1,Urban,50,Other
+50042361,P,M,19850101,S,Snow Drake,medium value,FACTA FATCA2,0.054162074000000004,Tiruvannāmalai,12.230203999999999,79.07295400000001,138243.0,Tier-1,Urban,44,White Collar Job
+50059118,P,M,19800101, ,Rathan Name,medium value,john smith,0.06562214599999999,Tiruvannāmalai,12.230203999999999,79.07295400000001,138243.0,Tier-1,Urban,49,Blue Collar Job
+50002160,P,M,19850101,M,TWO TWL,high value,Ansh TEN,0.063245631,Ghāziābād,28.665353000000003,77.439148,1341000.0,Tier-1,Metropolitan,43,Blue Collar Job
+50011526,P,M,19800101,M,Drake willson,medium value,computer csc,0.08587166,Ghāziābād,28.665353000000003,77.439148,1341000.0,Tier-1,Metropolitan,61,Blue Collar Job
+50013132,P,M,19800101,M,Drake willson,low value,Home Singh,0.084307729,Ghāziābād,28.665353000000003,77.439148,1341000.0,Tier-1,Metropolitan,35,White Collar Job
+50044315,P,M,19900101, ,detailrul client,medium value,John RTA,0.161230698,Ghāziābād,28.665353000000003,77.439148,1341000.0,Tier-1,Metropolitan,57,Blue Collar Job
+50047180,P,M,19850101,S,RTA DONLAD,medium value,Stanley Regan Morgan,0.084171748,Ghāziābād,28.665353000000003,77.439148,1341000.0,Tier-1,Metropolitan,54,White Collar Job
+50055147,P,M,19800101,M,Drake willson,high value,Ansh Aggarwal,0.09542075900000001,Ghāziābād,28.665353000000003,77.439148,1341000.0,Tier-1,Metropolitan,67,Other
+50002193,P,M,19950101,M,SIX RUL,high value,John RTA,0.188338532,Alappuzha,9.494647,76.331108,176783.0,Tier-1,Urban,44,Blue Collar Job
+50060009,P,M,19800101,M,NINJA RUL,high value,Drake Doctor,0.03312512,Alappuzha,9.494647,76.331108,176783.0,Tier-1,Urban,22,White Collar Job
+50002210,P,M,19820525,M,Amit Manocha,medium value,ABC XYZ,0.072009052,Rāichūr,16.205459,77.35566999999999,255240.0,Tier-1,Urban,32,White Collar Job
+50002305,P,M,19800101,M,Chawla Rahul,medium value,siva Anbu,0.06593504900000001,Gulbarga,17.335827,76.83757,483615.0,Tier-1,Urban,22,Other
+50054801,P,M,19800101,M,Ross TWL,medium value,NINJA RUL,0.10277521199999999,Gulbarga,17.335827,76.83757,483615.0,Tier-1,Urban,39,White Collar Job
+50062203,P,M,19800101,M,NINJA RUL,high value,John RTA,0.032202287999999996,Gulbarga,17.335827,76.83757,483615.0,Tier-1,Urban,52,Other
+50002326,P,M,19800101,M,Singh Anuj,high value,nitasha mittal,0.038319426000000004,Indore,22.717736,75.85859,2026000.0,Tier-1,Metropolitan,19,White Collar Job
+50002335,P,M,19780907,S,sen sdf,low value,NINJA RUL,0.065430806,Ajmer,26.452103,74.638667,589985.0,Tier-1,Urban,20,Blue Collar Job
+50002706,P,M,19900101,M,Rahul Singh,low value,Sebastian Song Newi,0.06380896400000001,Ajmer,26.452103,74.638667,589985.0,Tier-1,Urban,19,Blue Collar Job
+50026522,P,M,19791115,M,Prakash Gopalakrishnan,low value,Ansh Aggarwal,0.158665224,Ajmer,26.452103,74.638667,589985.0,Tier-1,Urban,55,Blue Collar Job
+50036817,P,M,19800101,M,Drake willson,medium value,jai singh,0.117417971,Ajmer,26.452103,74.638667,589985.0,Tier-1,Urban,18,Blue Collar Job
+50059924,P,M,19800101,M,Ansh TEN,low value,Stuart Binny,0.054276165,Ajmer,26.452103,74.638667,589985.0,Tier-1,Urban,22,White Collar Job
+50002352,P,M,19700101,M,Nishant Saxena,medium value,Nitin Gupta,0.060384503,Silchar,24.827327,92.79786800000001,152393.0,Tier-1,Urban,22,Other
+50002357,P,M,19880101,S,xdfgxdf dsf,low value,Drake willson,0.059672283,Cuddalore,11.746288999999999,79.764362,158569.0,Tier-1,Urban,66,White Collar Job
+50002688,P,M,19900101,M,Amit Manocha,low value,NINJA RUL,0.09361844,Cuddalore,11.746288999999999,79.764362,158569.0,Tier-1,Urban,57,White Collar Job
+50029737,P,M,19800101,M,Ansh TEN,high value,Ansh TEN,0.09340181199999999,Cuddalore,11.746288999999999,79.764362,158569.0,Tier-1,Urban,63,White Collar Job
+50002397,P,M,19880101,S,ASDASD SADSAD,high value,Ansh TEN,0.130548666,Bhusāval,21.043649,75.78505799999999,183001.0,Tier-1,Urban,36,Other
+50021856,P,F,19850724,M,Go Catherine,high value,NINJA RUL,0.305930027,Bhusāval,21.043649,75.78505799999999,183001.0,Tier-1,Urban,35,Other
+50032114,P,M,19750101,M,Snow Singh,high value,Test-KQ Test,0.060324645999999996,Bhusāval,21.043649,75.78505799999999,183001.0,Tier-1,Urban,23,White Collar Job
+50002413,P,M,19780107,S,sinha singh,medium value,Ansh TEN,0.06407442,Calicut,11.248016,75.780402,,Tier-6,Rural,28,Blue Collar Job
+50009786,P,M,19800101,M,Drake willson,high value,Drake willson,0.19120067899999998,Calicut,11.248016,75.780402,,Tier-6,Rural,26,White Collar Job
+50011528,P,M,19800101,M,NINJA RUL,medium value,one test,0.025705988,Calicut,11.248016,75.780402,,Tier-6,Rural,45,Other
+50015304,P,F,19810102, , DINESH RAMADASAJI SAWARAKAR,low value,NINJA RUL,0.475579081,Calicut,11.248016,75.780402,,Tier-6,Rural,56,White Collar Job
+50002416,P,M,19950101,M,Pal Inder,high value,Drake Doctor,0.062977189,Tonk,26.168672,75.786111,181734.0,Tier-1,Urban,66,Blue Collar Job
+50005234,P,M,19800101,M,Ansh Aggarwal,high value,Ansh Aggarwal,0.10128624800000001,Tonk,26.168672,75.786111,181734.0,Tier-1,Urban,47,White Collar Job
+50052666,P,M,19800101,M,Ross TWL,medium value,Twlone Client,0.083266859,Tonk,26.168672,75.786111,181734.0,Tier-1,Urban,47,Other
+50068223,P,F,19850219,S,mlala subham,low value,LifeAssT2 LifeAssT,0.118671921,Tonk,26.168672,75.786111,181734.0,Tier-1,Urban,19,Blue Collar Job
+50002454,P,M,19950101,M,Kumar Rana,high value,Snow Drake,0.086867285,Vārānasi,25.31774,83.005811,1352000.0,Tier-1,Metropolitan,66,Other
+50055028,P,M,19800101,M,Ross TWL,low value,John Jhonson,0.060269262000000004,Vārānasi,25.31774,83.005811,1352000.0,Tier-1,Metropolitan,30,Blue Collar Job
+50061633,P,M,19800101,M,NINJA RUL,high value,NINJA RUL,0.025705988,Vārānasi,25.31774,83.005811,1352000.0,Tier-1,Metropolitan,46,White Collar Job
+50002474,P,M,19920101,M,Gaurav Gupta,medium value,Surrender RUL,0.06634316400000001,Bhīlwāra,25.347071,74.640812,389911.0,Tier-1,Urban,28,White Collar Job
+50019244,P,M,19800101,M,Drake Doctor,low value,Ansh TEN,0.10332604,Bhīlwāra,25.347071,74.640812,389911.0,Tier-1,Urban,48,White Collar Job
+50002489,P,M,19850101,M,Nishant Saxena,high value,Frankilin Remo,0.063245631,Jodhpur,26.26841,73.005943,995000.0,Tier-1,Urban,55,White Collar Job
+50002499,P,M,19800101,M,Ashok Kumar,high value,FATCA1 FATCA1,0.10495,Pānīpat,29.387471,76.968246,292808.0,Tier-1,Urban,18,Other
+50012690,P,M,19800101,M,Drake willson,high value,Ross TWLGeller,0.268896147,Pānīpat,29.387471,76.968246,292808.0,Tier-1,Urban,66,Blue Collar Job
+50061098,P,M,19800101,M,NINJA RUL,medium value,NINJA RUL,0.022955135,Pānīpat,29.387471,76.968246,292808.0,Tier-1,Urban,45,White Collar Job
+50002500,P,M,19870101,S,Amar Shrivastava,medium value,Parth Gevik,0.34997419399999996,Hāpur,28.729845,77.780681,242920.0,Tier-1,Urban,64,White Collar Job
+50002502,P,M,19820101,S,Moss Taylor,high value,NINJA RUL,0.573170585,Rāmpura,26.884682,75.78933599999999,2917000.0,Tier-1,Metropolitan,68,Other
+50014309,P,M,19870101,M,Javed Khan,medium value,Drake willson,0.061068225,Rāmpura,26.884682,75.78933599999999,2917000.0,Tier-1,Metropolitan,54,Other
+50023890,P,M,19800101,M,Kesh TRM,high value,Chawla Rahul,0.093546536,Rāmpura,26.884682,75.78933599999999,2917000.0,Tier-1,Metropolitan,50,Blue Collar Job
+50053077,P,M,19840101,M,Anthony Lim,medium value,John RTA,0.054234174,Rāmpura,26.884682,75.78933599999999,2917000.0,Tier-1,Metropolitan,33,Blue Collar Job
+50002533,P,M,19950101,M,Mohit Goel,high value,John RTA,0.105640253,Amrāvati,20.933272,77.75152,734451.0,Tier-1,Urban,67,Other
+50071152,P,M,19850101,M,John Carter,medium value,Ansh TEN,0.093062277,Amrāvati,20.933272,77.75152,734451.0,Tier-1,Urban,51,Blue Collar Job
+50002569,P,M,19920101,M,Seth Singh,high value,Gabriel Goh,0.058585279000000004,Raurkela,22.224964,84.864143,625831.0,Tier-1,Urban,28,Other
+50005205,P,M,19800101,M,John RTA,low value,John RUL,0.085532934,Raurkela,22.224964,84.864143,625831.0,Tier-1,Urban,51,White Collar Job
+50016223,P,M,19800101,M,RECAL XMUSP,low value,Drake willson,0.054142259000000005,Raurkela,22.224964,84.864143,625831.0,Tier-1,Urban,51,Blue Collar Job
+50021562,P,M,19900101, ,test test,low value,Direct Debit SGD,0.26075301100000003,Raurkela,22.224964,84.864143,625831.0,Tier-1,Urban,52,Other
+50046357,P,M,19800101,M,Drake Doctor,high value,Kashinath Saxena,0.103881819,Raurkela,22.224964,84.864143,625831.0,Tier-1,Urban,46,Blue Collar Job
+50002580,P,M,19900101,M,Atul Kumar,high value,RTA Ashish,0.11435366,Karīmnagar,18.436738000000002,79.13221999999999,288251.0,Tier-1,Urban,43,Other
+50054934,P,M,19850101,S,Snow Drake,medium value,RTA Ashish,0.054162074000000004,Karīmnagar,18.436738000000002,79.13221999999999,288251.0,Tier-1,Urban,69,Other
+50002631,P,M,19800115,Z,abc parikh,low value,Way Tily,0.022569613,Lātūr,18.399487,76.584252,374394.0,Tier-1,Urban,48,Blue Collar Job
+50025316,P,M,19800101,M,Ross TWL,low value,sharma aditya,0.054524645,Lātūr,18.399487,76.584252,374394.0,Tier-1,Urban,62,Other
+50002641,P,M,19920101,M,Atul verma,high value,paul james,0.067603919,Ghandinagar,23.216667,72.68333299999999,,Tier-6,Rural,37,Blue Collar Job
+50002643,P,M,19950101,M,Gaurav Singh,high value,Gaurav Singh,0.081807319,Kohima,25.674673000000002,94.110988,92113.0,Tier-2,Semi-Urban,35,Blue Collar Job
+50034437,P,M,19750101,S,John RTA,medium value,Irfan Khan,0.054462115,Kohima,25.674673000000002,94.110988,92113.0,Tier-2,Semi-Urban,43,Blue Collar Job
+50034725,P,M,19850101,S,Snow Drake,medium value,Billing Day BRD Billing Day,0.054162074000000004,Kohima,25.674673000000002,94.110988,92113.0,Tier-2,Semi-Urban,63,Other
+50002678,P,M,19950101,M,Atul Singh,medium value,Snow Singh,0.073417458,Rājkot,22.291605999999998,70.793217,1260000.0,Tier-1,Metropolitan,47,Blue Collar Job
+50021550,P,M,19800101,M,John RTA,low value,sdfsf dsfdsf,0.084073081,Rājkot,22.291605999999998,70.793217,1260000.0,Tier-1,Metropolitan,38,Other
+50033916,P,M,19750101,S,RTA Ashish,medium value,Drake willson,0.025964631000000002,Rājkot,22.291605999999998,70.793217,1260000.0,Tier-1,Metropolitan,36,White Collar Job
+50002679,P,M,19910101,M,Govind Pal,low value,Govind Pal,0.078575059,Ambāla,30.360993,76.79781899999999,146787.0,Tier-1,Urban,26,White Collar Job
+50028489,P,M,19850101,S,RTA Ashish,medium value,Ashok Kumar,0.025236077000000003,Ambāla,30.360993,76.79781899999999,146787.0,Tier-1,Urban,24,Other
+50059754,P,M,19800101,M,NINJA RUL,medium value,Drake willson,0.069038025,Ambāla,30.360993,76.79781899999999,146787.0,Tier-1,Urban,55,White Collar Job
+50002689,P,M,19950101,M,Gaurav Manocha,high value,NINJA RUL,0.100893497,Amritsar,31.622336999999998,74.87533499999999,1212000.0,Tier-1,Metropolitan,46,White Collar Job
+50031192,P,M,19800101,M,Drake willson,medium value,Meenu Aggarwal,0.08587166,Amritsar,31.622336999999998,74.87533499999999,1212000.0,Tier-1,Metropolitan,23,Blue Collar Job
+50042373,P,M,19750101,M,Snow Singh,high value,NINJA RUL,0.10286538099999999,Amritsar,31.622336999999998,74.87533499999999,1212000.0,Tier-1,Metropolitan,52,Blue Collar Job
+50002719,P,M,19900101,M,Test Autoincrease,low value,Premium Collection,0.067418902,Salem,11.651164999999999,78.158672,873000.0,Tier-1,Urban,66,Other
+50008125,P,M,19800101,M,John RTA,medium value,trmtwo client,0.06167393400000001,Salem,11.651164999999999,78.158672,873000.0,Tier-1,Urban,43,White Collar Job
+50002725,P,M,20000101,S,Test Partsurrender,medium value,NINJA RUL,0.037892537999999996,Khānāpur,21.273716,76.11737600000001,197233.0,Tier-1,Urban,42,Blue Collar Job
+50010376,P,M,19750101,S,Akash Srivastava,low value,John Anderson,0.053342027,Khānāpur,21.273716,76.11737600000001,197233.0,Tier-1,Urban,30,Other
+50002754,P,M,20020101,Z,Mohit Kumar,low value,Mohit Kumar,0.055943552,Dispur,26.135638,91.800688,16140.0,Tier-4,Semi-Urban,36,Other
+50007364,P,M,19860420,M,Harbhajan Singh,high value,Ansh TEN,0.08514080199999999,Dispur,26.135638,91.800688,16140.0,Tier-4,Semi-Urban,57,Blue Collar Job
+50008102,P,M,19800101,M,NINJA RUL,low value,Devapriyo Chakma,0.054625022,Dispur,26.135638,91.800688,16140.0,Tier-4,Semi-Urban,52,Blue Collar Job
+50008540,P,M,19860420,Z,Hero Singh,high value,Drake Doctor,0.08014951299999999,Dispur,26.135638,91.800688,16140.0,Tier-4,Semi-Urban,45,Blue Collar Job
+50068243,P,M,19851010,Z,TClntRnwl TClntRnwl,medium value,NINJA RUL,0.08296287200000001,Dispur,26.135638,91.800688,16140.0,Tier-4,Semi-Urban,19,White Collar Job
+50002791,P,M,20020303,S,Kevin Roger,low value,Rultwo Client,0.24345657699999998,Sūrat,21.195944,72.830232,3842000.0,Tier-1,Metropolitan,62,White Collar Job
+50003418,P,M,19860420,M,Shambhu Nath,high value, AABA TOTARAM PAWAR,0.085368587,Saidāpur,27.598784000000002,80.75089,164435.0,Tier-1,Urban,63,White Collar Job
+50057329,P,M,19800101,M,NINJA RUL,medium value,Bret Lee,0.033427648,Saidāpur,27.598784000000002,80.75089,164435.0,Tier-1,Urban,64,Other
+50003419,P,M,19860420,M,Devapriyo Chakma,medium value,Bill Cage,0.084795574,Vizianagaram,18.11329,83.397743,179358.0,Tier-1,Urban,69,Other
+50008231,P,M,19820101,M,Mahesh Jakar,low value,Ansh TEN,0.09815048900000001,Vizianagaram,18.11329,83.397743,179358.0,Tier-1,Urban,65,Blue Collar Job
+50057913,P,M,19800101,M,Ansh TEN,low value,NINJA RUL,0.038378781,Vizianagaram,18.11329,83.397743,179358.0,Tier-1,Urban,37,Other
+50003591,P,M,20000101,S,Ring Lee,high value,NINJA RUL,0.0178939,Patiāla,30.336245,76.392199,329224.0,Tier-1,Urban,42,Blue Collar Job
+50068245,P,M,19910101, ,Avinash jain,low value,test one client,0.20870632,Patiāla,30.336245,76.392199,329224.0,Tier-1,Urban,51,White Collar Job
+50003980,P,M,19800101,M,Ansh Aggarwal,high value,Ansh Aggarwal,0.194412506,Jaipur,26.913312,75.787872,,Tier-6,Rural,21,White Collar Job
+50016213,P,M,19800101,M,NUSWI Lee,low value,Achal Sharma,0.054142259000000005,Jaipur,26.913312,75.787872,,Tier-6,Rural,46,Other
+50061530,P,M,19800101,M,NINJA RUL,high value,NINJA RUL,0.081371148,Jaipur,26.913312,75.787872,,Tier-6,Rural,40,Other
+50004123,P,M,19800101,M,John RTA,low value,Drake Doctor,0.054024811,Srīnagar,34.085652,74.805553,1140000.0,Tier-1,Metropolitan,55,Other
+50004178,P,M,19800101,M,John RTA,low value,John amalan,0.055231512999999996,Jamshedpur,22.802776,86.185448,1300000.0,Tier-1,Metropolitan,30,White Collar Job
+50061287,P,M,19800101,M,NINJA RUL,medium value,John RTA,0.023619435,Jamshedpur,22.802776,86.185448,1300000.0,Tier-1,Metropolitan,61,Blue Collar Job
+50004350,P,M,19800101,M,John RTA,medium value,John RUL,0.083266859,Vadodara,22.299405,73.208119,1756000.0,Tier-1,Metropolitan,65,Blue Collar Job
+50044298,P,M,19900101, ,detailstwo client,high value,John RTA,0.164345599,Vadodara,22.299405,73.208119,1756000.0,Tier-1,Metropolitan,24,White Collar Job
+50051926,P,M,19851208,M,Manav Aggarwal,low value,John Snow,0.113975565,Vadodara,22.299405,73.208119,1756000.0,Tier-1,Metropolitan,68,White Collar Job
+50004695,P,M,19800101,M,John RTA,medium value,Matt Dimitrov,0.061606357,Hatīsa,27.592698,78.01384300000001,126882.0,Tier-1,Urban,65,White Collar Job
+50034451,P,M,19850101,S,Snow Drake,medium value,babita gupta,0.054162074000000004,Hatīsa,27.592698,78.01384300000001,126882.0,Tier-1,Urban,23,Other
+50060260,P,M,19800101,M,Ansh TEN,medium value,Ansh TEN,0.060632411,Hatīsa,27.592698,78.01384300000001,126882.0,Tier-1,Urban,25,White Collar Job
+50004836,P,F,20060102,S,Beti Kumari,medium value,NINJA RUL,0.279223234,Aurangābād,19.880943,75.346739,1113000.0,Tier-1,Metropolitan,44,Blue Collar Job
+50004836,P,F,20060102,S,Beti Kumari,medium value,NINJA RUL,0.279223234,Aurangābād,24.752036999999998,84.374202,95929.0,Tier-2,Semi-Urban,56,White Collar Job
+50005787,P,M,19860420,Z,Ram Singh,medium value,Dennis Salvador,0.071464122,Aurangābād,19.880943,75.346739,1113000.0,Tier-1,Metropolitan,37,White Collar Job
+50005787,P,M,19860420,Z,Ram Singh,medium value,Dennis Salvador,0.071464122,Aurangābād,24.752036999999998,84.374202,95929.0,Tier-2,Semi-Urban,21,Blue Collar Job
+50014124,P,M,19780202,M,Frankilin Remo,high value,Robin Williams,0.06728854,Aurangābād,19.880943,75.346739,1113000.0,Tier-1,Metropolitan,58,Other
+50014124,P,M,19780202,M,Frankilin Remo,high value,Robin Williams,0.06728854,Aurangābād,24.752036999999998,84.374202,95929.0,Tier-2,Semi-Urban,47,Other
+50041941,P,M,19800101,M,Ansh TEN,medium value,Beti Kumari,0.066730318,Aurangābād,19.880943,75.346739,1113000.0,Tier-1,Metropolitan,69,White Collar Job
+50041941,P,M,19800101,M,Ansh TEN,medium value,Beti Kumari,0.066730318,Aurangābād,24.752036999999998,84.374202,95929.0,Tier-2,Semi-Urban,31,White Collar Job
+50004931,P,M,19860420,M,Pappu Singh,medium value,mlala subham,0.085551213,Daman,20.414315,72.83236,39737.0,Tier-3,Semi-Urban,48,Other
+50068328,P,M,19800101,M,Scott2 Fritz2,high value,NINJA RUL,0.157331306,Daman,20.414315,72.83236,39737.0,Tier-3,Semi-Urban,57,White Collar Job
+50004939,P,M,19800101,M,John RTA,high value,Ross TWL,0.094053071,Meerut,28.980017999999998,77.706356,1398000.0,Tier-1,Metropolitan,62,Other
+50004959,P,M,19800101,M,John RTA,low value,John Anderson,0.054024811,Kochi,9.947743,76.25380200000001,1519000.0,Tier-1,Metropolitan,53,White Collar Job
+50016398,P,M,19800101,S,FACTA FATCA2,low value,Drake Doctor,0.053124674000000004,Kochi,9.947743,76.25380200000001,1519000.0,Tier-1,Metropolitan,55,Blue Collar Job
+50053793,P,M,19800101,M,NINJA RUL,low value,John RTA,0.06040840000000001,Kochi,9.947743,76.25380200000001,1519000.0,Tier-1,Metropolitan,23,Blue Collar Job
+50060295,P,M,19800101,M,Ansh TEN,low value,Atul Kumar,0.054528595,Kochi,9.947743,76.25380200000001,1519000.0,Tier-1,Metropolitan,64,White Collar Job
+50005439,P,M,19800101,M,John RTA,low value,nan anbu,0.054625022,Belgaum,15.862642999999998,74.508534,608756.0,Tier-1,Urban,55,Blue Collar Job
+50024307,P,M,19800101,M,NINJA RUL,high value,Drake Doctor,0.045002949,Belgaum,15.862642999999998,74.508534,608756.0,Tier-1,Urban,65,White Collar Job
+50060900,P,M,19800101,M,Drake Doctor,high value,Kesh TRM,0.062314943,Belgaum,15.862642999999998,74.508534,608756.0,Tier-1,Urban,35,Blue Collar Job
+50070059,P,M,19800101,M,Ram TEN,low value,Ansh TEN,0.103159316,Belgaum,15.862642999999998,74.508534,608756.0,Tier-1,Urban,52,White Collar Job
+50005620,P,M,20040101,S,Stuart Binny,low value,Amrita P,0.10197511,Ranchi,23.347768,85.338564,1044000.0,Tier-1,Metropolitan,69,White Collar Job
+50005717,P,F,20040101,Z,Hema Malini,low value,John RUL,0.16972289100000001,Rohtak,28.894472999999998,76.589166,317245.0,Tier-1,Urban,38,Other
+50005786,P,M,19860420,Z,Amma Singh,medium value,John RTA,0.10575863,Chikka Mandya,12.545602,76.895078,285034.0,Tier-1,Urban,37,White Collar Job
+50044873,P,M,19800101,M,Drake Doctor,high value,Benny Lim,0.115187286,Chikka Mandya,12.545602,76.895078,285034.0,Tier-1,Urban,54,Other
+50005788,P,M,19860420,Z,Baby Singh,medium value,Beta Singh,0.071464122,Coimbatore,11.005547,76.966122,1696000.0,Tier-1,Metropolitan,62,White Collar Job
+50005923,P,M,19800101,M,Drake willson,high value,Tennewsix Client,0.157860912,Ludhiāna,30.912042,75.853789,1649000.0,Tier-1,Metropolitan,62,Blue Collar Job
+50039757,P,M,19750101,S,rohit kumar,low value,Snow Drake,0.05309302,Ludhiāna,30.912042,75.853789,1649000.0,Tier-1,Metropolitan,45,White Collar Job
+50006132,P,M,19800101,M,Ansh Aggarwal,low value,abc parikh,0.078375662,Shiliguri,26.710034999999998,88.428512,515574.0,Tier-1,Urban,32,White Collar Job
+50006767,P,M,19800101,M,NINJA RUL,medium value,PHOUC ##yii88,0.061717111,Shiliguri,26.710034999999998,88.428512,515574.0,Tier-1,Urban,44,Other
+50006464,P,M,19800101,M,Ross TWLGeller,high value,SIX RUL,0.11496265300000001,Muzaffarnagar,29.470914,77.703324,349706.0,Tier-1,Urban,32,Other
+50007420,P,M,19920101,M,Rana Singh,medium value,John Erwin,0.059055408,Muzaffarnagar,29.470914,77.703324,349706.0,Tier-1,Urban,41,White Collar Job
+50006969,P,M,19830101,S,Soham Khan,low value,Personal Client Personal Client,0.096045275,Warangal,17.978423,79.60020899999999,1203853.0,Tier-1,Metropolitan,69,White Collar Job
+50011481,P,M,19800101,M,Ansh Aggarwal,high value,Tennewtwo client,0.060763181,Warangal,17.978423,79.60020899999999,1203853.0,Tier-1,Metropolitan,59,Blue Collar Job
+50023091,P,M,19800101,M,Soham Khan,low value,Personal Personal one,0.038252058,Warangal,17.978423,79.60020899999999,1203853.0,Tier-1,Metropolitan,37,White Collar Job
+50007083,P,M,19880414,M,Kavin Parker,high value,NINJA RUL,0.10010513900000001,Vishākhapatnam,17.704051999999997,83.297663,1529000.0,Tier-1,Metropolitan,65,Other
+50007301,P,M,19800101,M,Drake Doctor,medium value,John RTA,0.17151152100000003,Davangere,14.469237,75.92375,503564.0,Tier-1,Urban,19,Blue Collar Job
+50066050,P,M,19800101,M,NINJA RUL,high value,H Madhan,0.026690969,Davangere,14.469237,75.92375,503564.0,Tier-1,Urban,60,Other
+50007351,P,M,19800101,M,John TWL,low value,Manoj Sheetal,0.054625022,Akola,20.709569000000002,76.998103,503502.0,Tier-1,Urban,57,White Collar Job
+50025064,P,M,19750101,S,John Anderson,low value,Ansh TEN,0.069480472,Akola,20.709569000000002,76.998103,503502.0,Tier-1,Urban,29,Other
+50007721,P,M,19830201,M,jai singh,high value,ten reversal,0.026914094,Ratlām,23.330331,75.040315,307229.0,Tier-1,Urban,48,Other
+50048340,P,M,19890101, ,Twlone Client,low value,NINJA RUL,0.14226929,Ratlām,23.330331,75.040315,307229.0,Tier-1,Urban,60,Other
+50048343,P,M,19810101, ,Twlsix Client,low value,John RTA,0.142213434,Ratlām,23.330331,75.040315,307229.0,Tier-1,Urban,53,White Collar Job
+50008265,P,M,19860420,M,Home Singh,high value,John RTA,0.056265578,Āsansol,23.683332999999998,86.983333,1328000.0,Tier-1,Metropolitan,28,Other
+50040280,P,M,20000505,S,LifeAssT2 LifeAssT,high value,Test Partsurrender,0.034507997,Āsansol,23.683332999999998,86.983333,1328000.0,Tier-1,Metropolitan,31,Blue Collar Job
+50008539,P,M,19840115,S,David Webb,high value,David Webb,0.064918259,Panchkula,30.691512,76.853736,,Tier-6,Rural,55,White Collar Job
+50008569,P,M,19900101,M,Atul Kumar,high value, last name,0.068782209,Ahmadnagar,19.094571,74.73843199999999,391760.0,Tier-1,Urban,21,White Collar Job
+50014419,P,M,19800101,M,Drake Doctor,high value,Ram Singh,0.147495479,Ahmadnagar,19.094571,74.73843199999999,391760.0,Tier-1,Urban,33,White Collar Job
+50038958,P,M,19800101,M,Drake Doctor,medium value,Ansh TEN,0.075242991,Ahmadnagar,19.094571,74.73843199999999,391760.0,Tier-1,Urban,44,White Collar Job
+50056804,P,M,19850101,S,RTA Ashish,low value,Tennewthree client,0.053065420999999995,Ahmadnagar,19.094571,74.73843199999999,391760.0,Tier-1,Urban,62,Blue Collar Job
+50061621,P,M,19800101,M,NINJA RUL,medium value,Ansh TEN,0.028776784,Ahmadnagar,19.094571,74.73843199999999,391760.0,Tier-1,Urban,61,White Collar Job
+50009598,P,M,19800101,M,Ross TWLGeller,high value,Ansh Aggarwal,0.069038312,Pāli,25.775125,73.320611,210103.0,Tier-1,Urban,29,Blue Collar Job
+50023889,P,M,19800101,M,Kesh TRM,low value,Ming Lu,0.055231512999999996,Pāli,25.775125,73.320611,210103.0,Tier-1,Urban,61,Blue Collar Job
+50010139,P,M,19860420,M,CR Rocks,high value,Mona Aggarwal,0.062148917000000005,Guntūr,16.299737,80.457293,530577.0,Tier-1,Urban,60,Other
+50038933,P,M,19800101,M,Drake willson,low value,Mahesh Jakar,0.099071773,Guntūr,16.299737,80.457293,530577.0,Tier-1,Urban,24,Blue Collar Job
+50059573,P,M,19800101,M,Ross TWL,high value,John RUL,0.054024811,Guntūr,16.299737,80.457293,530577.0,Tier-1,Urban,62,White Collar Job
+50010141,P,M,19850101,S,sds dsds,high value,sds dsds,0.06838451200000001,Dehra Dūn,30.324427000000004,78.033922,714223.0,Tier-1,Urban,31,White Collar Job
+50010207,P,M,19800126,M,James Watson,low value,Ram Singh,0.09789018599999999,Thiruvananthapuram,8.485498,76.949238,954000.0,Tier-1,Urban,40,Other
+50060374,P,M,19800101,M,Ansh TEN,medium value,John RUL,0.05433916900000001,Thiruvananthapuram,8.485498,76.949238,954000.0,Tier-1,Urban,46,Blue Collar Job
+50010254,P,M,19800101,M,Ansh Aggarwal,low value,Nishant Saxena,0.05453689,Shimla,31.104422999999997,77.166623,173503.0,Tier-1,Urban,57,Blue Collar Job
+50034321,P,M,19750101,M,Snow Singh,high value,Ansh TEN,0.083341502,Shimla,31.104422999999997,77.166623,173503.0,Tier-1,Urban,59,Blue Collar Job
+50010557,P,F,19840104,M,geeta sharma,low value,Ronald Carter,0.26004626,Tirunelveli,8.725181,77.684519,542200.0,Tier-1,Urban,29,Other
+50010709,P,M,19850909,S,James Simone,low value,Test 1 anu,0.12415153300000001,Tirunelveli,8.725181,77.684519,542200.0,Tier-1,Urban,22,Other
+50010612,P,M,19800101,M,Ansh Aggarwal,high value,Drake willson,0.116476803,Kavaratti,10.566667,72.616667,10688.0,Tier-4,Semi-Urban,29,White Collar Job
+50034436,P,M,19800101,M,Ansh Aggarwal,medium value,Harbhajan Singh,0.055292509000000004,Kavaratti,10.566667,72.616667,10688.0,Tier-4,Semi-Urban,39,Other
+50048337,P,M,19850101, ,rulfour Client,high value,Moss Taylor,0.150814715,Kavaratti,10.566667,72.616667,10688.0,Tier-4,Semi-Urban,55,White Collar Job
+50071526,P,M,19800101,M,Ross TWL,high value, CLIENT_TESTING,0.054024811,Kavaratti,10.566667,72.616667,10688.0,Tier-4,Semi-Urban,61,White Collar Job
+50011568,P,M,19800101,M,Drake willson,high value,Ishmeet Singh,0.191203497,Jammu,32.735686,74.869112,791000.0,Tier-1,Urban,52,Other
+50037298,P,M,19800101,M,Drake willson,medium value,Snow Drake,0.17147002100000003,Jammu,32.735686,74.869112,791000.0,Tier-1,Urban,20,White Collar Job
+50044856,P,M,19800101,M,Ross TWL,medium value,RTA Ashish,0.070439124,Jammu,32.735686,74.869112,791000.0,Tier-1,Urban,33,Blue Collar Job
+50011881,P,M,19800101,M,NINJA RUL,high value,Drake willson,0.036020431,Dibrugarh,27.479888,94.90836999999999,166366.0,Tier-1,Urban,67,Blue Collar Job
+50038386,P,M,19800101,M,Ansh TEN,high value,Drake Doctor,0.06167393400000001,Dibrugarh,27.479888,94.90836999999999,166366.0,Tier-1,Urban,52,Blue Collar Job
+50040849,P,M,19800101,M,NINJA RUL,high value,Ross TWLGeller,0.039600522,Dibrugarh,27.479888,94.90836999999999,166366.0,Tier-1,Urban,51,White Collar Job
+50012390,P,M,19830101,S,Soham Khan,high value,Ansh Aggarwal,0.062518412,Bharauri,27.598203,81.694709,182218.0,Tier-1,Urban,23,Other
+50048349,P,M,19800101,M,NINJA RUL,high value,Drake willson,0.027210299,Bharauri,27.598203,81.694709,182218.0,Tier-1,Urban,66,Other
+50012681,P,M,19800101,M,Ansh Aggarwal,low value,Ansh Aggarwal,0.08403149,Machilīpatnam,16.187466,81.13888,192827.0,Tier-1,Urban,62,White Collar Job
+50023840,P,M,19920101,S,Sivaldo Rivaldo,high value,NINJA RUL,0.038940547,Machilīpatnam,16.187466,81.13888,192827.0,Tier-1,Urban,44,Blue Collar Job
+50034453,P,M,19850101,S,Snow Drake,medium value, ABAJI PANDIT MARATHE,0.054162074000000004,Machilīpatnam,16.187466,81.13888,192827.0,Tier-1,Urban,40,Blue Collar Job
+50062216,P,M,19800101,M,Ram TEN,low value,John RUL,0.103159316,Machilīpatnam,16.187466,81.13888,192827.0,Tier-1,Urban,29,Blue Collar Job
+50012939,P,F,19600101,M,babita gupta,high value,sen sdf,0.090637232,Parbhani,19.268553,76.77080699999999,378326.0,Tier-1,Urban,19,Other
+50016224,P,M,19800101,M,XMUSI RECAL,low value,Drake Doctor,0.054145400999999996,Parbhani,19.268553,76.77080699999999,378326.0,Tier-1,Urban,32,Other
+50023833,P,M,19750101,M,jai singh,high value,Javed Akhtar,0.087678891,Parbhani,19.268553,76.77080699999999,378326.0,Tier-1,Urban,38,Other
+50030908,P,M,19800101,M,Ross TWL,medium value,Singh DONLAD,0.060541135,Parbhani,19.268553,76.77080699999999,378326.0,Tier-1,Urban,42,Blue Collar Job
+50013138,P,M,19900101,M,Nitin Gupta,high value,Off VPMS,0.07485267799999999,Ahmadābād,23.025793,72.587265,5375000.0,Tier-1,Metropolitan,62,Other
+50013293,P,M,19850101,M,Senior Lee,low value,sam virmani,0.093432722,Bhuj,23.253972,69.66928100000001,289429.0,Tier-1,Urban,31,Other
+50041142,P,M,19800101,M,Ansh TEN,medium value,John Anderson,0.055054625,Bhuj,23.253972,69.66928100000001,289429.0,Tier-1,Urban,62,Other
+50044841,P,M,19950101, ,tenone client,high value,Snow Singh,0.416257159,Bhuj,23.253972,69.66928100000001,289429.0,Tier-1,Urban,20,White Collar Job
+50013339,P,M,19850101,S,Billing Day BRD Billing Day,low value,Ross TWLGeller,0.09921261099999999,Krishnanagar,23.405761,88.49073299999999,145926.0,Tier-1,Urban,51,Other
+50059227,P,M,19800101,M,Drake Doctor,low value,Drake Doctor,0.063479011,Krishnanagar,23.405761,88.49073299999999,145926.0,Tier-1,Urban,37,Blue Collar Job
+50013618,P,M,19810101,M,Amar Kuamr,low value,Arun Singh,0.6749253040000001,Madurai,9.917347,78.11962199999999,1294000.0,Tier-1,Metropolitan,57,Blue Collar Job
+50013939,P,M,19800101,M,Ross TWLGeller,low value,jai singh,0.060823155,Proddatūr,14.7502,78.548129,197451.0,Tier-1,Urban,63,Other
+50033748,P,M,19800101,M,Drake willson,high value,John RTA,0.11514295,Proddatūr,14.7502,78.548129,197451.0,Tier-1,Urban,66,Blue Collar Job
+50014341,P,M,19800101,M,Ansh Aggarwal,medium value,John RTA,0.055292509000000004,Bareilly,28.347022999999997,79.421934,817000.0,Tier-1,Urban,61,Other
+50059713,P,M,19800101,M,Ross TWL,high value,James Simone,0.060269262000000004,Bareilly,28.347022999999997,79.421934,817000.0,Tier-1,Urban,28,White Collar Job
+50014436,P,M,19800101,M,Ansh Aggarwal,medium value,Ansh TEN,0.055292509000000004,Bhiwāni,28.793044000000002,76.13968,190855.0,Tier-1,Urban,38,White Collar Job
+50014443,P,M,19750101,M,Snow Singh,high value,John TWL,0.212868158,Tirupati,13.635504999999998,79.419888,287035.0,Tier-1,Urban,50,Other
+50030829,P,M,19850101,S,RTA Ashish,high value,Atul Kumar,0.08610086,Tirupati,13.635504999999998,79.419888,287035.0,Tier-1,Urban,39,Blue Collar Job
+50015368,P,M,19870306, , PATHAN MUBARAK USMAN,medium value,Snow Drake,0.117333058,Haldia,22.025278,88.05833299999999,200762.0,Tier-1,Urban,29,White Collar Job
+50016222,P,M,19800101,M,NUSWOI Lee,low value,NUSWOI Lee,0.054142259000000005,Samlaipādar,21.478072,83.990505,310852.0,Tier-1,Urban,68,White Collar Job
+50016357,P,M,19800101,S, test,low value,XMUSI RECAL,0.059865805999999994,Gangtok,27.325739000000002,88.612155,77900.0,Tier-2,Semi-Urban,65,Other
+50029964,P,M,19800101,M,Drake Doctor,high value,Drake Doctor,0.26823189,Gangtok,27.325739000000002,88.612155,77900.0,Tier-2,Semi-Urban,28,Other
+50016397,P,M,19800101,S,FATCA1 FATCA1,low value,singh Anhuj,0.053660769000000004,Solāpur,17.671523,75.910437,1057000.0,Tier-1,Metropolitan,65,Other
+50016399,P,M,19800101,S,FACTS3 FACTA3,low value,Rana Singh,0.062693344,Bhubaneshwar,20.272410999999998,85.833853,844000.0,Tier-1,Urban,42,White Collar Job
+50059953,P,M,19800101,M,NINJA RUL,medium value,Ansh TEN,0.029604453,Bhubaneshwar,20.272410999999998,85.833853,844000.0,Tier-1,Urban,62,Other
+50016400,P,M,19800101,S,fact4 fatca4,low value,Nishant Saxena,0.053660769000000004,Panaji,15.498289000000002,73.824541,65586.0,Tier-2,Semi-Urban,18,Other
+50016441,P,M,19800101,S,sett test,low value,sett test,0.053660769000000004,Cuttack,20.522922,85.78813000000001,580000.0,Tier-1,Urban,21,Other
+50026634,P,M,19900315,M,Paul Newman,high value,sinha singh,0.098762345,Cuttack,20.522922,85.78813000000001,580000.0,Tier-1,Urban,57,Blue Collar Job
+50016452,P,M,19800101,S,sdsf asd,low value,Singh Ashu,0.053660769000000004,Jhānsi,25.458872,78.579943,826494.0,Tier-1,Urban,55,Blue Collar Job
+50021539,P,M,19800101,M,Drake Doctor,high value,John Carter,0.141012707,Jabalpur,23.174495,79.935903,1285000.0,Tier-1,Metropolitan,65,Blue Collar Job
+50054561,P,M,19800101,M,NINJA RUL,high value,Ram TEN,0.039600522,Jabalpur,23.174495,79.935903,1285000.0,Tier-1,Metropolitan,31,Other
+50022220,P,F,19800724,M,Tanuja Mukherjee,high value,Tanuja Mukherjee,0.259506807,Lucknow,26.839281,80.92313299999999,2695000.0,Tier-1,Metropolitan,30,Other
+50022636,P,F,19841208,M,Meenu Aggarwal,low value,John RTA,0.332326511,Bīdar,17.913308999999998,77.530105,300136.0,Tier-1,Urban,58,Blue Collar Job
+50066921,P,M,19800101,M,NINJA RUL,high value,Drake willson,0.04151317,Bīdar,17.913308999999998,77.530105,300136.0,Tier-1,Urban,39,White Collar Job
+50022653,P,F,19841208,M,Meenu Aggarwal,medium value,Ansh Aggarwal,0.442804496,Imphal,24.808053,93.944203,264986.0,Tier-1,Urban,29,Other
+50038411,P,M,19750101,M,Snow Singh,high value,Drake Doctor,0.083341502,Imphal,24.808053,93.944203,264986.0,Tier-1,Urban,33,Blue Collar Job
+50023418,P,M,19800101,M,Drake Doctor,high value,John Anderson,0.046404152000000004,Bulandshahr,28.403921999999998,77.857731,198612.0,Tier-1,Urban,31,White Collar Job
+50064939,P,M,19800101,M,NINJA RUL,medium value,NINJA RUL,0.041791628,Bulandshahr,28.403921999999998,77.857731,198612.0,Tier-1,Urban,45,Blue Collar Job
+50023608,P,M,19800101,M,Drake Doctor,low value,Nishant Saxena,0.08710845199999999,Bhiwandi,19.300229,73.058813,795000.0,Tier-1,Urban,58,Blue Collar Job
+50040737,P,M,19800101,M,NINJA RUL,high value,Snow Singh,0.054927479,Bhiwandi,19.300229,73.058813,795000.0,Tier-1,Urban,36,White Collar Job
+50024632,P,M,19750101,M,Snow Singh,high value,Sanjeev Kumar,0.082779653,Shillong,25.573987,91.896807,375527.0,Tier-1,Urban,46,White Collar Job
+50025297,P,M,19800101,M,Drake willson,medium value,Anshika Srivastava,0.083093897,Itanagar,27.102349,93.692047,44971.0,Tier-3,Semi-Urban,33,White Collar Job
+50028269,P,M,19800101, ,Joe Shayam,high value,Ritika Shukla,0.38578040799999996,Itanagar,27.102349,93.692047,44971.0,Tier-3,Semi-Urban,33,White Collar Job
+50059187,P,M,19800101,M,Drake Doctor,high value,Ansh Aggarwal,0.083723971,Itanagar,27.102349,93.692047,44971.0,Tier-3,Semi-Urban,50,White Collar Job
+50025955,P,M,19750101,M,Ravish Singh,high value,NINJA RUL,0.067548446,Gopālpur,26.735389,83.38064,674246.0,Tier-1,Urban,56,Other
+50027812,P,F,19750101,M,Ritika Shukla,high value,Snow Singh,0.2161005,Bhāvnagar,21.774455,72.152496,554978.0,Tier-1,Urban,67,White Collar Job
+50048239,P,M,19940101, ,Tennewsix Client,high value,Snow Drake,0.297884657,Bhāvnagar,21.774455,72.152496,554978.0,Tier-1,Urban,29,Other
+50028173,P,M,19830526,M,PHL RUL,medium value,John RTA,0.08597723800000001,Alwar,27.566290999999996,76.610202,283228.0,Tier-1,Urban,67,Other
+50045210,P,M,19800101,M,NINJA RUL,medium value,NINJA RUL,0.11756327400000001,Alwar,27.566290999999996,76.610202,283228.0,Tier-1,Urban,30,Blue Collar Job
+50029533,P,M,19800101,M,Drake Doctor,medium value,Drake Doctor,0.075242991,Ongole,15.503565,80.04454100000001,202860.0,Tier-1,Urban,48,Other
+50047848,P,M,19800101,M,Scott Fritz,medium value,Batch Kathir,0.075613384,Ongole,15.503565,80.04454100000001,202860.0,Tier-1,Urban,59,White Collar Job
+50061046,P,M,19800101,M,NINJA RUL,medium value,Ross TWL,0.028776784,Ongole,15.503565,80.04454100000001,202860.0,Tier-1,Urban,61,White Collar Job
+50030000,P,M,19800101,M,Ansh TEN,high value,xdfgxdf dsf,0.10277521199999999,Guwāhāti,26.176076000000002,91.76293199999999,983000.0,Tier-1,Urban,29,Other
+50047442,P,M,19800101, ,Ansh TEN,high value,ANSH RUL,0.266795956,Guwāhāti,26.176076000000002,91.76293199999999,983000.0,Tier-1,Urban,26,Blue Collar Job
+50048620,P,M,19800101,M,NINJA RUL,medium value,Drake Doctor,0.060600968,Guwāhāti,26.176076000000002,91.76293199999999,983000.0,Tier-1,Urban,45,Blue Collar Job
+50033698,P,M,19850101,S,RTA DONLAD,low value,Mohit Goel,0.024808543,Sīkar,27.614778,75.138671,400000.0,Tier-1,Urban,66,Other
+50040683,P,M,19800101,M,Ansh Aggarwal,low value,Drake Doctor,0.05408754,Sīkar,27.614778,75.138671,400000.0,Tier-1,Urban,57,Blue Collar Job
+50064311,P,M,19750101,S,John RTA,high value,NINJA RUL,0.056064732,Sīkar,27.614778,75.138671,400000.0,Tier-1,Urban,65,Blue Collar Job
+50033783,P,M,19750202, ,Remogoio Remy Martin,low value,NINJA RUL,0.12315502,Chandigarh,30.736292,76.788398,979000.0,Tier-1,Urban,61,Blue Collar Job
+50033996,P,M,19800101,M,Ansh TEN,medium value,siva anbu,0.075522913,Chandigarh,30.736292,76.788398,979000.0,Tier-1,Urban,66,Blue Collar Job
+50033857,P,M,19800101,M,Drake Doctor,high value,John RTA,0.046404152000000004,Navsāri,20.85,72.916667,163000.0,Tier-1,Urban,22,Blue Collar Job
+50042511,P,M,19800101,M,Ross TWL,low value,Rana Singh,0.060275774000000004,Navsāri,20.85,72.916667,163000.0,Tier-1,Urban,63,White Collar Job
+50059097,P,M,19800101,M,NINJA RUL,medium value,NINJA RUL,0.022955135,Navsāri,20.85,72.916667,163000.0,Tier-1,Urban,63,Other
+50059980,P,M,19800101,M,Ansh TEN,low value,Gcsthree Client,0.054352511,Navsāri,20.85,72.916667,163000.0,Tier-1,Urban,33,White Collar Job
+50034065,P,M,19850101,S,ANSH RUL,medium value, PATHAN MUBARAK USMAN,0.06118866,Bakshpur,25.894282999999998,80.79210400000001,166480.0,Tier-1,Urban,29,Blue Collar Job
+50041963,P,M,19800101,M,Drake willson,low value,Viku Aggarwal,0.084526299,Bakshpur,25.894282999999998,80.79210400000001,166480.0,Tier-1,Urban,63,Other
+50042360,P,M,19850101,S,Snow Drake,medium value,Drake willson,0.054162074000000004,Bakshpur,25.894282999999998,80.79210400000001,166480.0,Tier-1,Urban,22,Blue Collar Job
+50062236,P,M,19800101,M,NINJA RUL,medium value,TClntRnwl TClntRnwl,0.050260014000000006,Bakshpur,25.894282999999998,80.79210400000001,166480.0,Tier-1,Urban,48,Other
+50034448,P,M,19750101,S,rohit kumar,low value,PHL RUL,0.05309302,Saugor,23.838766,78.738738,328240.0,Tier-1,Urban,49,White Collar Job
+50034640,P,M,19800101,M,John RTA,low value,John RTA,0.054047385,Dhanbād,23.801988,86.44324399999999,1246000.0,Tier-1,Metropolitan,40,White Collar Job
+50061810,P,M,19800101,M,NINJA RUL,high value,NINJA RUL,0.032202287999999996,Dhanbād,23.801988,86.44324399999999,1246000.0,Tier-1,Metropolitan,60,Other
+50034667,P,M,19800101,M,Drake willson,low value,Angelino Antonio,0.084592384,Dhūlia,20.901298999999998,74.777373,479073.0,Tier-1,Urban,37,White Collar Job
+50048115,P,M,19800101,M,NINJA RUL,high value,rohit kumar,0.397659514,Dhūlia,20.901298999999998,74.777373,479073.0,Tier-1,Urban,67,Other
+50061209,P,M,19800101,M,NINJA RUL,medium value,Drake willson,0.023619435,Dhūlia,20.901298999999998,74.777373,479073.0,Tier-1,Urban,58,White Collar Job
+50034724,P,M,19850101,S,Snow Drake,medium value,Snow Singh,0.054162074000000004,Purnea,25.776703,87.47365500000001,198453.0,Tier-1,Urban,47,Other
+50034757,P,M,19800101,M,Drake willson,low value,Senior Lee,0.084592384,Kota,25.182544,75.839065,827000.0,Tier-1,Urban,57,Other
+50035080,P,M,19800101, ,Batch Sample,low value,Kavin Parker,0.123629388,Delhi,28.651952,77.231495,15926000.0,Tier-1,Metropolitan,57,Other
+50037176,P,M,19800101,M,NINJA RUL,high value,Ravish Singh,0.104847144,Thanjāvūr,10.785233,79.139093,219571.0,Tier-1,Urban,20,Other
+50041454,P,M,19800101,M,Ross TWL,medium value,Ansh TEN,0.127473095,Thanjāvūr,10.785233,79.139093,219571.0,Tier-1,Urban,58,White Collar Job
+50037988,P,M,19800101,M,Drake Doctor,high value,Drake Doctor,0.084180971,Karūr,10.960277,78.076753,76915.0,Tier-2,Semi-Urban,31,Other
+50038860,P,M,19800101,M,Ansh TEN,medium value,ASDASD SADSAD,0.09298115800000001,Bharatpur,27.215251000000002,77.492786,229384.0,Tier-1,Urban,45,Blue Collar Job
+50054935,P,M,19850101,S,Snow Drake,medium value,Ring Lee,0.054162074000000004,Bharatpur,27.215251000000002,77.492786,229384.0,Tier-1,Urban,69,White Collar Job
+50038983,P,M,19800101,M,Ross TWL,medium value,NINJA RUL,0.055094745,Shāhbāzpur,27.874115999999997,79.879327,320434.0,Tier-1,Urban,55,Other
+50040035,P,M,19800101,M,NINJA RUL,high value,John RTA,0.033151768,Shāhbāzpur,27.874115999999997,79.879327,320434.0,Tier-1,Urban,49,Blue Collar Job
+50061059,P,M,19800101,M,Ansh TEN,medium value,RTA Ashish,0.055398752,Shāhbāzpur,27.874115999999997,79.879327,320434.0,Tier-1,Urban,69,White Collar Job
+50039781,P,M,19800101,M,Ansh TEN,low value,Joe Shayam,0.094680675,Porbandar,21.641346,69.600868,234684.0,Tier-1,Urban,24,White Collar Job
+50040738,P,M,19800101,M,NINJA RUL,high value,Manav Aggarwal,0.065427531,Bhopal,23.254688,77.40289200000001,1727000.0,Tier-1,Metropolitan,20,Other
+50040752,P,M,19800101,M,Ansh TEN,low value,john smith,0.054663958,New Delhi,28.6,77.2,317797.0,Tier-1,Urban,65,White Collar Job
+50040837,P,M,19800101,M,Drake willson,low value,Kevin Roger,0.084015517,Kurnool,15.828864999999999,78.03602099999999,424920.0,Tier-1,Urban,56,Other
+50045860,P,M,19800101,M,NINJA RUL,medium value,Alfred Lim,0.028818355,Kurnool,15.828864999999999,78.03602099999999,424920.0,Tier-1,Urban,23,Blue Collar Job
+50048236,P,M,19820101, ,Tennewfive Client,high value,Madhan Rajan,0.251015748,Kurnool,15.828864999999999,78.03602099999999,424920.0,Tier-1,Urban,49,Blue Collar Job
+50059966,P,M,19800101,M,Ansh TEN,low value,Drake Doctor,0.042770882,Kurnool,15.828864999999999,78.03602099999999,424920.0,Tier-1,Urban,26,Other
+50040973,P,M,19900101,M,B Verma,high value,B Verma,0.055821672,Budaun,28.038114,79.126677,161555.0,Tier-1,Urban,46,Blue Collar Job
+50044326,P,M,19820101, ,rulfour client,high value,madhu madhan,0.16897586399999998,Budaun,28.038114,79.126677,161555.0,Tier-1,Urban,65,White Collar Job
+50061127,P,M,19800101,M,NINJA RUL,high value,Ajay Ajmani,0.090509046,Budaun,28.038114,79.126677,161555.0,Tier-1,Urban,20,Blue Collar Job
+50066907,P,M,19810925, ,Client Target2,low value,John RTA,0.15678802,Budaun,28.038114,79.126677,161555.0,Tier-1,Urban,20,White Collar Job
+50041079,P,M,19800101,M,A Sharma,medium value,Virat Kohli,0.023619435,Tuticorin,8.805038,78.151884,436094.0,Tier-1,Urban,34,White Collar Job
+50041508,P,M,19800101,M,NINJA RUL,high value,John RTA,0.024302481,Dindigul,10.362853,77.975827,200797.0,Tier-1,Urban,38,White Collar Job
+50042398,P,M,19800101,M,Ram TEN,high value,John RTA,0.11439619,Dindigul,10.362853,77.975827,200797.0,Tier-1,Urban,66,Other
+50041665,P,M,19800101,M,Ansh TEN,medium value,Shane Warne,0.055292509000000004,Bellary,15.142048999999998,76.92398,445388.0,Tier-1,Urban,29,White Collar Job
+50044319,P,M,19860101, ,detailsrulone client,high value,Sivaldo Rivaldo,0.18721913399999998,Bellary,15.142048999999998,76.92398,445388.0,Tier-1,Urban,58,White Collar Job
+50042356,P,M,19750101,S,John RTA,medium value,Drake Doctor,0.054462115,Bijāpur,16.827714999999998,75.718988,271064.0,Tier-1,Urban,31,Other
+50048265,P,M,19900101, ,Tennewseven Client,medium value,NINJA RUL,0.23003806100000002,Bijāpur,16.827714999999998,75.718988,271064.0,Tier-1,Urban,55,Other
+50042358,P,M,19750101,S,rohit kumar,low value,Prakash Gopalakrishnan,0.05309302,Kagaznāgār,19.331589,79.46605100000001,,Tier-6,Rural,60,White Collar Job
+50048768,P,M,19800101,M,Ross TWL,medium value,axtre Bonga,0.067184218,Kagaznāgār,19.331589,79.46605100000001,,Tier-6,Rural,64,Blue Collar Job
+50061404,P,M,19800101,M,NINJA RUL,high value,Drake Doctor,0.077078969,Kagaznāgār,19.331589,79.46605100000001,,Tier-6,Rural,53,Other
+50044314,P,M,19850101, ,detailwtwl client,high value,Ross TWL,0.144986909,Morādābād,28.838931,78.776838,787000.0,Tier-1,Urban,39,White Collar Job
+50044842,P,M,19800101,M,Ansh TEN,low value,Drake willson,0.042897081,Alīgarh,27.881453000000004,78.07464,805000.0,Tier-1,Urban,28,Blue Collar Job
+50053341,P,M,19800101,M,Ansh TEN,high value,Drake willson,0.083736308,Alīgarh,27.881453000000004,78.07464,805000.0,Tier-1,Urban,67,Blue Collar Job
+50053928,P,M,19800101,M,TRM TRM,high value, DINESH RAMADASAJI SAWARAKAR,0.094823005,Alīgarh,27.881453000000004,78.07464,805000.0,Tier-1,Urban,56,White Collar Job
+50061884,P,M,19800101,M,NINJA RUL,medium value,John RTA,0.032202287999999996,Alīgarh,27.881453000000004,78.07464,805000.0,Tier-1,Urban,25,White Collar Job
+50044855,P,M,19800101,M,Ansh TEN,low value,NINJA RUL,0.060552966,Mirzāpur,25.144902,82.565335,245817.0,Tier-1,Urban,21,White Collar Job
+50068121,P,M,19800101,M,Ansh TEN,high value,NINJA RUL,0.068738265,Mirzāpur,25.144902,82.565335,245817.0,Tier-1,Urban,19,Other
+50044913,P,M,19860101, ,trmtwo client,high value,Ansh Aggarwal,0.223887819,Vellore,12.905769,79.13710400000001,177081.0,Tier-1,Urban,40,Blue Collar Job
+50048228,P,M,19900101, ,Tennewtwo client,high value,Akash Srivastava,0.273459458,Vellore,12.905769,79.13710400000001,177081.0,Tier-1,Urban,64,Blue Collar Job
+50048235,P,M,19850101, ,Tennewthree client,high value,Manav Aggarwal,0.273843461,Vellore,12.905769,79.13710400000001,177081.0,Tier-1,Urban,56,White Collar Job
+50046352,P,M,19800101,M,Drake Doctor,medium value,rulfour client,0.055258703,Mumbai,18.987807,72.83644699999999,18978000.0,Tier-1,Metropolitan,69,Other
+50047189,P,M,19850101,S,RTA Ashish,medium value,IWA Testing,0.06018965,Nāsik,19.999963,73.776887,1473000.0,Tier-1,Metropolitan,53,Blue Collar Job
+50071153,P,M,19850101, ,fgdfg dfgdf,low value,John RTA,0.142768473,Nāsik,19.999963,73.776887,1473000.0,Tier-1,Metropolitan,26,Blue Collar Job
+50047247,P,M,19850101,S,RTA Ashish,medium value,Ross TWL,0.053952973,Muzaffarpur,26.122593,85.390553,333200.0,Tier-1,Urban,32,Other
+50057403,P,M,19800101,M,Drake Doctor,medium value,Ansh TEN,0.055871142,Muzaffarpur,26.122593,85.390553,333200.0,Tier-1,Urban,40,Other
+50047267,P,M,19850101,S,RTA Ashish,medium value,Rivaldoss Rivaldoss,0.053952973,Rājapālaiyam,9.451111000000001,77.55612099999999,369991.0,Tier-1,Urban,21,White Collar Job
+50047273,P,M,19850101,S,SHARMA MOHIT,medium value,Nishant Saxena,0.053952973,Sirsa,29.534893,75.028981,181639.0,Tier-1,Urban,60,Blue Collar Job
+50059124,P,M,19840612, ,nan anbu,medium value,Drake Doctor,0.283840248,Sirsa,29.534893,75.028981,181639.0,Tier-1,Urban,22,Other
+50047287,P,M,19850101,S,RTA Ashish,low value,John RTA,0.053176037,Sāngli,16.856776999999997,74.56919599999999,601214.0,Tier-1,Urban,52,Other
+50047786,P,M,19800101,M,Ansh TEN,low value,Bhanu Bhanu,0.042796002,Nāgercoil,8.177313,77.43437,224329.0,Tier-1,Urban,54,Other
+50047876,P,M,19800101,M,NINJA RUL,medium value,kliuyt Sonal,0.054927479,Saidpur,34.318174,74.457093,63035.0,Tier-2,Semi-Urban,65,Other
+50069836,P,M,19800101,M,Ram TEN,low value,John RTA,0.054047385,Saidpur,34.318174,74.457093,63035.0,Tier-2,Semi-Urban,52,Other
+50048266,P,M,19800101,M,NINJA RUL,high value,Ronn Century,0.024302481,Bhilai,21.209188,81.428497,1097000.0,Tier-1,Metropolitan,43,White Collar Job
+50048339,P,M,19890101, ,Rultwo Client,medium value,Ross TWLGeller,0.14784650400000002,Rājahmundry,17.005171,81.777839,304804.0,Tier-1,Urban,25,White Collar Job
+50048396,P,M,19800101,M,NINJA RUL,medium value,Ansh TEN,0.026447741,Rājahmundry,17.005171,81.777839,304804.0,Tier-1,Urban,25,Blue Collar Job
+50061314,P,M,19800101,M,NINJA RUL,high value,RECAL XMUSP,0.028776784,Rājahmundry,17.005171,81.777839,304804.0,Tier-1,Urban,39,Blue Collar Job
+50071387,P,M,19800101,M,NINJA RUL,medium value,NINJA RUL,0.033425784,Rājahmundry,17.005171,81.777839,304804.0,Tier-1,Urban,36,White Collar Job
+50048362,P,M,19800101,M,Drake Doctor,low value,John RTA,0.063479011,Patna,25.615379,85.101027,2158000.0,Tier-1,Metropolitan,26,Blue Collar Job
+50070071,P,M,19810101, ,Ram Sai,low value,NINJA RUL,0.142203733,Patna,25.615379,85.101027,2158000.0,Tier-1,Metropolitan,33,Other
+50050270,P,M,19800101,M,Ross TWL,medium value,Shambhu Nath,0.060269262000000004,Bīkaner,28.017622999999997,73.314955,576015.0,Tier-1,Urban,57,White Collar Job
+50050486,P,M,19710504,S,Gabriel Goh,low value,twlone client,0.07598593599999999,Bīkaner,28.017622999999997,73.314955,576015.0,Tier-1,Urban,26,Other
+50053365,P,M,19800101,M,Drake willson,low value,Ansh Aggarwal,0.083765455,Allahābād,25.444779999999998,81.84321700000001,1201000.0,Tier-1,Metropolitan,37,White Collar Job
+50055159,P,M,19800101,M,Ross TWL,medium value,Int admin,0.060269262000000004,Mālegaon Camp,20.569974,74.515415,690844.0,Tier-1,Urban,36,White Collar Job
+50055451,P,M,19800101,M,NINJA RUL,medium value,John RTA,0.062353525,Udaipur,24.57951,73.690508,469737.0,Tier-1,Urban,30,Other
+50056596,P,M,19650101,S,Manav Aggarwal,high value,John Doe,0.056196557,Bilāspur,22.080046,82.15543100000001,543454.0,Tier-1,Urban,26,Other
+50060657,P,M,19800101,M,Ansh TEN,high value,Drake Doctor,0.068738265,Bilāspur,22.080046,82.15543100000001,543454.0,Tier-1,Urban,34,White Collar Job
+50057852,P,M,19800101,M,Drake Doctor,medium value,Ansh TEN,0.067958554,Mathura,27.503501,77.672145,330511.0,Tier-1,Urban,26,Blue Collar Job
+50059407,P,M,19800101,M,Drake Doctor,high value,NINJA RUL,0.060462609,Kolār,13.137679,78.129989,144625.0,Tier-1,Urban,69,White Collar Job
+50059418,P,M,19800101,M,Drake Doctor,high value,Atul Kumar,0.060462609,Hindupur,13.828064999999999,77.491425,168312.0,Tier-1,Urban,38,Blue Collar Job
+50060323,P,M,19800101,M,NINJA RUL,medium value,NINJA RUL,0.023619435,Kollam,8.881131,76.584694,394163.0,Tier-1,Urban,53,Other
+50060336,P,M,19800101,M,Drake Doctor,high value,NINJA RUL,0.060462609,Nellore,14.449917999999998,79.986967,678004.0,Tier-1,Urban,61,Blue Collar Job
+50060592,P,M,19800101,M,NINJA RUL,medium value,John RTA,0.022955135,Nellore,14.449917999999998,79.986967,678004.0,Tier-1,Urban,68,Blue Collar Job
+50060547,P,M,19800101,M,NINJA RUL,high value,Ansh TEN,0.028776784,Kolkata,22.562627,88.36304399999999,14787000.0,Tier-1,Metropolitan,64,Other
+50060615,P,M,19800101,M,NINJA RUL,high value,Ravish Singh,0.025705988,Kalyān,19.243703,73.135537,1576614.0,Tier-1,Metropolitan,51,Blue Collar Job
+50060708,P,M,19800101,M,Drake Doctor,high value,John RUL,0.067398157,Shimoga,13.932424,75.57255500000001,654055.0,Tier-1,Urban,55,Other
+50060989,P,M,19800101,M,NINJA RUL,high value,Drake Doctor,0.045002949,Shimoga,13.932424,75.57255500000001,654055.0,Tier-1,Urban,32,Other
+50061864,P,M,19800101,M,NINJA RUL,high value,NINJA RUL,0.100509344,Bengalūru,12.977063000000001,77.587106,6787000.0,Tier-1,Metropolitan,53,Blue Collar Job
+50061957,P,M,19800101,M,NINJA RUL,high value,NINJA RUL,0.040272443,Port Blair,11.666667,92.75,127562.0,Tier-1,Urban,30,Blue Collar Job
+50068345,P,M,19800101,M,NINJA RUL,high value,Ansh TEN,0.055174379,Bhātpāra,22.866431,88.401129,483129.0,Tier-1,Urban,48,Other
+50069119,P,M,19750101,S,Bhim Sen,high value,John RUL,0.053619994000000004,Vālpārai,10.325163,76.955299,114308.0,Tier-1,Urban,26,Other
+50069843,P,M,19800101,M,Ansh TEN,low value, AALAM BALASO MULANI,0.043012215,Mysore,12.292664,76.638543,887000.0,Tier-1,Urban,67,White Collar Job
+50071543,P,M,19800101,M,Drake Doctor,medium value,Gcstwo Client,0.055871142,Hubli,15.349955,75.13861899999999,890000.0,Tier-1,Urban,31,Other
