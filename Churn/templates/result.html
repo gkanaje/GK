@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body bgcolor=#ADD8E6>
+<center>
+    <h1 style="font-family:verdana;font-size:350%;"> Prediction</h1>
+
+    {%if data == 0%}
+    <h1 style="font-family:verdana;font-size:250%;color:Green;"> Customer will Not Churn</h1>
+    <img src="static\not_churn.gif">
+    {%else%}
+    <h1 style="font-family:verdana;font-size:250%;color:Red;"> Customer will Churn</h1>
+    <img src="static\churn.gif">
+
+    {%endif%}
+    <br><br>
+    <a href="/">go back to home page</a>
+
+
+</center>
+
+</body>
+</html>

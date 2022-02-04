@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Churn Prediction</title>
+</head>
+<body bgcolor=#F0F8FF>
+
+<center><img src="static\LOGO.png" align="middle"></center>
+
+
+
+
+<table style="width:100%">
+    <tr>
+        <td>
+            <center>
+           <img src="static\customer_churn.jpg" align="middle" width="600" height="400">
+        </center>
+        </td>
+    <td>
+        <center>
+
+        <h1 style="font-family:verdana;font-size:250%;color:Red;"> Customer Churn Prediction</h1><br>
+
+    <form method="POST" action = "{{url_for('home')}}">
+        <b>
+            Tenure of the Customer: <input type="text", name="a", placeholder="enter a value"/><br><br>
+            Phone Service: <input type="text", name="b", placeholder="enter a value"/><br><br>
+            Contract: <input type="text", name="c", placeholder="enter a value"/><br><br>
+            Paperless Billing: <input type="text", name="d", placeholder="enter a value"/><br><br>
+            Payment Method: <input type="text", name="e", placeholder="enter a value"/><br><br>
+            Monthly Charges: <input type="text", name="f", placeholder="enter a value"/><br><br><br></b>
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+            </center>
+        </td>
+
+</tr>
+</table>
+<marquee><i>International School of AI and Data Science</i></marquee>
+
+</body>
+</html>

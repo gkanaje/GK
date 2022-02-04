@@ -1,0 +1,4 @@
+Flask
+pickle-mixin
+sklearn
+gunicorn
